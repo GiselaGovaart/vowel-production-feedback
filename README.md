@@ -12,16 +12,16 @@ For this tool, we carried out an extensive linear discriminant analysis (LDA) to
 
 ## The tool
 The tool consists of:
-Training 1: Feedback training (the participant produced the words and gets visual feedback on her pronunciation) 
-Training 2: Control training (same as training 1, but without visual feedback on own production)
-Transfer Reading: A transfer reading task with 8 new words.
+- Training 1: Feedback training (the participant produced the words and gets visual feedback on her pronunciation) 
+- Training 2: Control training (same as training 1, but without visual feedback on own production)
+- Transfer Reading: A transfer reading task with 8 new words.
 For Training 1 and 2, if session number = 1, the training starts with a practice phase with 20 words. The transfer reading task does not have a practice phase.
 
 The script test_axes_females.praat was used to decide the values of the axes. To see the distribution of the means of the vowels in the five different consonant contexts, see have a look this script.
 
 ## Using the tool
-Information for experiment leader
-- After the initial calibration phase, you should check whether the three vowels are on a triangle, and whether the values make sense. If the triangle looks good, you can push the space bar and the experiment starts. If you want to re-do the calibration, press “r”. If the triangle does not look good, redo the calibration, because this influences all vowels in the experiment!
+Information for experiment leader:
+- After the initial calibration phase, you should check whether the three vowels are on a triangle, and whether the values make sense. If the triangle does not look good, redo the calibration, because this influences all vowels in the experiment.
 - When the experiment is finished and you see the last screen, press the space bar one last time. Do not just close the window by pressing the cross in the left-top corner – the window closes by itself after you press the space bar.
 
 ## Collaborators
