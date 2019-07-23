@@ -17,7 +17,7 @@ The tool consists of:
 - Reading task: The participants produces the words she was trained on, without feedback.
 - Transfer Reading: A transfer reading task with 8 new words.
 
-For Training 1 and 2, if session number = 1, the training starts with a practice phase with 20 words. The transfer reading task does not have a practice phase.
+For Training 1 and 2, if session number = 1, the training starts with a practice phase with 20 words. The reading tasks do not have a practice phase.
 
 The script test_axes_females.praat was used to decide the values of the axes. To see the distribution of the means of the vowels in the five different consonant contexts, see have a look this script.
 
