@@ -25,9 +25,9 @@ Information for experiment leader:
 - When the experiment is finished and you see the last screen, press the space bar one last time. Do not just close the window by pressing the cross in the left-top corner – the window closes by itself after you press the space bar.
 
 ## Collaborators
-Gisela Govaart
-Makiko Sadakata
-Paul Boersma
+- Gisela Govaart
+- Makiko Sadakata
+- Paul Boersma
 
 This tool was created as part of a research internship at the Donders Institute, Nijmegen and the Amsterdam Center for Language and Communication: Phonetic Sciences, Amsterdam. 
 
