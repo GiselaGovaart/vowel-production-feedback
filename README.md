@@ -11,7 +11,7 @@ This tool can be used to train speakers’ production of a non-native vowel cont
 For this tool, we carried out an extensive linear discriminant analysis (LDA) to analyze a dataset of productions of the our vowels of interest (the English /ɛ/ in ‘pen’  and /æ/ in ‘pan’), produced by 10 native speakers of English. We did this to identify the most important features of the English vowels /ɛ/ and /æ/ were identified, because these features will be most useful to receive feedback on for non-native speakers. We found mean F1 and F2 over the whole duration of the vowel are the best indicators, and that coarticulation should be taken into account. Our tool thus uses these features to provide the participant feedback on her vowel production. More information on how the tool was developed can be found [here](thesis-GiselaGovaart.pdf).
 
 ## The tool
-The tool consists of:
+The tool has four different tasks:
 - Training 1: Feedback training (the participant produced the words and gets visual feedback on her pronunciation) 
 - Training 2: Control training (same as training 1, but without visual feedback on own production)
 - Reading task: The participants produces the words she was trained on, without feedback.
