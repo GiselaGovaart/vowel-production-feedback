@@ -24,7 +24,6 @@ The script test_axes_females.praat was used to decide the values of the axes. To
 ## Using the tool
 Information for experiment leader:
 - After the initial calibration phase, you should check whether the three vowels are on a triangle, and whether the values make sense. If the triangle does not look good, redo the calibration, because this influences all vowels in the experiment.
-- When the experiment is finished and you see the last screen, press the space bar one last time. Do not just close the window by pressing the cross in the left-top corner – the window closes by itself after you press the space bar.
 
 ## Collaborators
 - [Gisela Govaart](https://www.cbs.mpg.de/person/govaart/373360)
