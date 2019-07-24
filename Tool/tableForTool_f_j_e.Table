@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "Table"
+
+numberOfColumns = 2 
+columnHeaders []: 
+    columnHeaders [1]:
+        label = "F1" 
+    columnHeaders [2]:
+        label = "F2" 
+rows: size = 20 
+rows [1]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "632.7442403879584" 
+        cells [2]:
+            string = "1883.3829471479935" 
+rows [2]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "636.1125043051074" 
+        cells [2]:
+            string = "1890.624909491872" 
+rows [3]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "686.4195317965048" 
+        cells [2]:
+            string = "1893.8627127578961" 
+rows [4]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "660.553653654857" 
+        cells [2]:
+            string = "1994.8218176795394" 
+rows [5]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "675.1948192937982" 
+        cells [2]:
+            string = "1927.3964958386448" 
+rows [6]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "718.6126506144644" 
+        cells [2]:
+            string = "1909.35626613395" 
+rows [7]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "726.1882779036976" 
+        cells [2]:
+            string = "1908.9510802180926" 
+rows [8]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "716.2397382016778" 
+        cells [2]:
+            string = "1913.410580179002" 
+rows [9]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "713.4051270349003" 
+        cells [2]:
+            string = "1806.7080762114444" 
+rows [10]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "698.9761404499322" 
+        cells [2]:
+            string = "1919.3888750095134" 
+rows [11]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "713.2740616763542" 
+        cells [2]:
+            string = "1724.862911474078" 
+rows [12]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "815.8514929177795" 
+        cells [2]:
+            string = "1768.617635638098" 
+rows [13]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "807.2291149222203" 
+        cells [2]:
+            string = "1754.617020204178" 
+rows [14]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "754.9560866824413" 
+        cells [2]:
+            string = "1704.6262552104836" 
+rows [15]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "733.3079784812653" 
+        cells [2]:
+            string = "1549.5174334569324" 
+rows [16]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "761.9871077663215" 
+        cells [2]:
+            string = "1758.2804091898436" 
+rows [17]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "762.6047523972829" 
+        cells [2]:
+            string = "1698.655089929919" 
+rows [18]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "752.7248551263888" 
+        cells [2]:
+            string = "1782.6431814906482" 
+rows [19]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "785.1667215218508" 
+        cells [2]:
+            string = "1329.0827144441728" 
+rows [20]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "792.2957255098081" 
+        cells [2]:
+            string = "1806.6248525185395" 

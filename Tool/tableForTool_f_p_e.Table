@@ -1,0 +1,164 @@
+File type = "ooTextFile"
+Object class = "Table"
+
+numberOfColumns = 2 
+columnHeaders []: 
+    columnHeaders [1]:
+        label = "F1" 
+    columnHeaders [2]:
+        label = "F2" 
+rows: size = 22 
+rows [1]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "818.2572017249095" 
+        cells [2]:
+            string = "2002.4971047712254" 
+rows [2]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "786.9879365329285" 
+        cells [2]:
+            string = "1953.33909594665" 
+rows [3]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "896.2744194922049" 
+        cells [2]:
+            string = "2016.4081401785684" 
+rows [4]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "913.533389185448" 
+        cells [2]:
+            string = "1977.6074114671874" 
+rows [5]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "844.4208471097127" 
+        cells [2]:
+            string = "2003.8034415567852" 
+rows [6]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "901.7254855052917" 
+        cells [2]:
+            string = "1922.4640036159074" 
+rows [7]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "887.4127029505355" 
+        cells [2]:
+            string = "2016.3726333414008" 
+rows [8]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "915.0979709661385" 
+        cells [2]:
+            string = "1986.884369925464" 
+rows [9]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "893.8864765306711" 
+        cells [2]:
+            string = "1946.8028189263691" 
+rows [10]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "922.7462800367657" 
+        cells [2]:
+            string = "1878.7250358821461" 
+rows [11]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "845.7636405659665" 
+        cells [2]:
+            string = "1949.370008137935" 
+rows [12]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "1002.2427492761944" 
+        cells [2]:
+            string = "1710.2384398314337" 
+rows [13]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "967.6724572072726" 
+        cells [2]:
+            string = "1736.0190884114322" 
+rows [14]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "984.7278407323138" 
+        cells [2]:
+            string = "1692.3799865570709" 
+rows [15]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "921.8812544328832" 
+        cells [2]:
+            string = "1840.9771791198514" 
+rows [16]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "981.3519990230284" 
+        cells [2]:
+            string = "1746.4053473201093" 
+rows [17]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "979.4324478202227" 
+        cells [2]:
+            string = "1824.0191604735141" 
+rows [18]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "964.4681830015277" 
+        cells [2]:
+            string = "1737.605395357038" 
+rows [19]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "954.1497415721929" 
+        cells [2]:
+            string = "1803.3274280794135" 
+rows [20]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "1059.987166896767" 
+        cells [2]:
+            string = "1959.3799425901434" 
+rows [21]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "913.9907798189809" 
+        cells [2]:
+            string = "1844.165266607299" 
+rows [22]:
+    numberOfColumns = 2 
+    cells []: 
+        cells [1]:
+            string = "968.6003055313554" 
+        cells [2]:
+            string = "1793.0623697229287" 
