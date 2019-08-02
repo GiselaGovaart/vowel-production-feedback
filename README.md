@@ -1,5 +1,7 @@
 # Vowel Production Feedback Tool
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3358741.svg)](https://doi.org/10.5281/zenodo.3358741)
+
 This is a tool to give online feedback on vowel production, using the computer program [Praat](http://www.fon.hum.uva.nl/praat/) (Boersma & Weenink, 2016). 
 It can be used to analyze and give visual feedback on productions of the English /ɛ/–/æ/ contrast, to train the pronunciation of this contrast for non-native English speakers.
 
