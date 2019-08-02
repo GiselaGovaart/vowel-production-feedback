@@ -1,4 +1,4 @@
-# Production Feedback Tool
+# Speech Production Feedback Tool
 
 This is a tool to give online feedback on vowel production, using the computer program [Praat](http://www.fon.hum.uva.nl/praat/) (Boersma & Weenink, 2016). 
 It can be used to analyze and give visual feedback on productions of the English /ɛ/–/æ/ contrast, to train the pronunciation of this contrast for non-native English speakers.
